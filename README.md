@@ -1,4 +1,4 @@
-# HiSyFFT : Streaming FFT for HLS 
+# HiSyFFT : Streaming FFT for HLS Applications
 Streaming Fast Fourier Transform ( FFT/DFT ) High Level Synthesis IP Generator for FPGAs and ASICs
 
 HiSynFFT is a fixed point IP generator producing single threaded or multi-threaded C++/SystemC implementation which can be used for high level synthesis
